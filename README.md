@@ -27,7 +27,7 @@ pip install flask python-telegram-bot schedule
 ### Uygulamayı Başlat / Run the Application
 
 ```bash
-python app.py
+python bot.py
 ```
 
 Tarayıcınızda [http://localhost:5000](http://localhost:5000) adresine giderek formu doldurun.
