@@ -59,17 +59,20 @@ Tarayıcınızda [http://localhost:5000](http://localhost:5000) adresine giderek
 ```
 123456789
 ```
-Botu Başlatma / Start Your Bot
-Oluşturduğunuz bot, mesaj gönderebilmesi için ilk olarak sizin tarafınızdan başlatılmalıdır.
+## 🟢 Botu Başlatmayı Unutmayın / Don’t Forget to Start Your Bot
 
-Nasıl Başlatılır?
-Telegram uygulamasını açın.
+Oluşturduğunuz botun size mesaj gönderebilmesi için **önce sizin tarafınızdan başlatılması gerekir.**
 
-Arama çubuğuna botunuzun kullanıcı adını yazın (örneğin: @mycustombot).
+### Nasıl Başlatılır?
 
-Botu seçin ve "Start" veya "Başlat" butonuna tıklayın(/start yazın).
+1. Telegram uygulamasında botunuzun kullanıcı adını aratın (örnek: `@mycustombot`).
+2. Botu açın.
+3. **"Başlat" (Start)** butonuna tıklayın.
+4. Artık bot mesaj göndermeye hazır! ✅
 
-Artık bot mesaj göndermeye hazır! ✅
+> 💡 Eğer bot bir gruba veya kanala mesaj gönderecekse, botun orada **yönetici** yetkisine sahip olması gerektiğini unutmayın.
+
+---
 
 ## 📝 Kullanım / Usage
 
